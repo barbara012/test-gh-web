@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/barbara012/test-gh-web/static/css/main.073c9b0a.css",
+    "main.js": "/barbara012/test-gh-web/static/js/main.e7400952.js",
+    "static/js/787.345c5a35.chunk.js": "/barbara012/test-gh-web/static/js/787.345c5a35.chunk.js",
+    "static/media/logo.svg": "/barbara012/test-gh-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/barbara012/test-gh-web/index.html",
+    "main.073c9b0a.css.map": "/barbara012/test-gh-web/static/css/main.073c9b0a.css.map",
+    "main.e7400952.js.map": "/barbara012/test-gh-web/static/js/main.e7400952.js.map",
+    "787.345c5a35.chunk.js.map": "/barbara012/test-gh-web/static/js/787.345c5a35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e7400952.js"
+  ]
+}
